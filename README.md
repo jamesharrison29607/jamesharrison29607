@@ -11,16 +11,12 @@
 
  <h2> Connect with me:</h2> 
  
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdndsdelivr.net/npm/simple-icons@v3ificons/twitter.svg" 
-   />] [twitter] 
-[<img align="left" alt="Josh | Linkedln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
- />][linkedin] 
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdndsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
- />][instagram] 
+
+ <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/james-e-harrison-144916386">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
 
  
-[twitter]: https://twitter.com/Jane
-[instagram]: https://www.instagram.com/Jane 
-[linkedin]: https://linkedin.com/in/Janel 
 
 
