@@ -1,4 +1,4 @@
- <h1>Hi, I'm James, an <a href="https://linkedin.com/in/jamesharrison29607">Software Developer, IT Professional</a>😊</h1> 
+ <h1>Hi, I'm James, a <a href="https://linkedin.com/in/jamesharrison29607">Software Developer, IT Professional</a>😊</h1> 
  
  
  <h2>👨‍💻 Software Development Projects:</h2>
