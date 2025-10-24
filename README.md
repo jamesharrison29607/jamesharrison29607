@@ -30,7 +30,7 @@
 
 ###  Cybersecurity Projects
 
-- **[Vulnerability Assessment Report](https://github.com/jamesharrison29607/ecommerce-vulnerability-assessment/blob/main/vulnerability-assessment-report.md)**
+- **[Vulnerability Assessment Report – E-commerce Database](https://github.com/jamesharrison29607/ecom-vulnerability-assessment)**
   - Conducted a comprehensive risk and vulnerability assessment of a public-facing e-commerce database server.
   - Identified critical misconfigurations, evaluated risks using the NIST SP 800-30 framework, and proposed layered remediation strategies.
   - Produced professional documentation including Markdown and PDF versions for portfolio demonstration.
