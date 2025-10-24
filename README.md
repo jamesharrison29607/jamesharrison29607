@@ -19,6 +19,24 @@
  - <b>Microsoft Azure</b> 
    - [Configuring Active Directory within Azure VMs](https://github.com/jamesharrison29607/configure-ad)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://your-link-here.com)
+  
+
+
+
+
+
+
+---
+
+###  Cybersecurity Projects
+
+- **[Vulnerability Assessment Report – E-commerce Database](https://github.com/jamesharrison29607/ecommerce-vulnerability-assessment)**
+  - Conducted a comprehensive risk and vulnerability assessment of a public-facing e-commerce database server.
+  - Identified critical misconfigurations, evaluated risks using the NIST SP 800-30 framework, and proposed layered remediation strategies.
+  - Produced professional documentation including Markdown and PDF versions for portfolio demonstration.
+
+
+     
 
  <h2> Connect with me:</h2> 
  
