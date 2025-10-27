@@ -31,7 +31,7 @@
 ###  Cybersecurity Projects
 
 - **[Vulnerability Assessment Report – E-commerce Database](https://github.com/jamesharrison29607/ecom-vulnerability-assessment)**
-- **[Vulnerability Assessment Report – E-commerce Database](https://github.com/jamesharrison29607/SQL-Applying-Filters-to-Queries)**  
+- **[SQL- Applying ](https://github.com/jamesharrison29607/SQL-Applying-Filters-to-Queries)**  
 
      
 
